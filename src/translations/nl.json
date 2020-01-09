@@ -1,0 +1,138 @@
+[
+  {
+    "id": "homePage.hero.title",
+    "defaultMessage": "# Help us change the world.",
+    "message": "# Help ons de wereld te veranderen."
+  },
+  {
+    "id": "homePage.hero.body",
+    "defaultMessage": "Tricryo is looking for talent such as **mechanical**, **electronics** and **data engineers**, a **marketeer**, **strategic thinker** and **CFO** with an untameable drive for positive impact.",
+    "message": "Tricryo zoekt talent zoals **mechanische**, **electronica** en **data ingenieurs**, een **marketeer**, **strategische denker** en **CFO** met onblusbare drang naar positieve impact."
+  },
+  {
+    "id": "homePage.hero.cta",
+    "defaultMessage": "[Contact us](mailto:hello@tricryo.com)",
+    "message": "[Contacteer ons](mailto:hello@tricryo.com)"
+  },
+  {
+    "id": "homePage.bannerOne.title",
+    "defaultMessage": "# Sustainable energy, check.",
+    "message": "# Duurzame energie, check."
+  },
+  {
+    "id": "homePage.bannerOne.body",
+    "defaultMessage": "**Tricryo Home** integrates with your renewable electricity and heat sources in order to accomplish complete self-sustainability.",
+    "message": "**Tricryo Home** integreert met je hernieuwbare electriciteits- en warmtebronnen om uw woning volkomen zelfvoorzienend te maken."
+  },
+  {
+    "id": "homePage.bannerTwo.title",
+    "defaultMessage": "### The internet of your energy.",
+    "message": "### Het internet van uw energie."
+  },
+  {
+    "id": "homePage.bannerTwo.left",
+    "defaultMessage": "With a Tricryo Home installation it doesn't matter when you have an excess or shortage of energy. We always provide sufficient availability, at the moment when it is required.",
+    "message": "Met een Tricryo Home installatie maakt het niet meer uit wanneer je een overschot of tekort aan energie hebt. We voorzien steeds voldoende beschikbaarheid, op het moment dat het nodig is."
+  },
+  {
+    "id": "homePage.bannerTwo.right",
+    "defaultMessage": "Thanks to Tricryo Home you no longer have to lay awake at night, worrying about a lack of sun, declining battery capacity or net-taxes. We even get you through the winter without national black-outs.",
+    "message": "Dankzij Tricryo Home lig je niet langer wakker over te weinig zon, dalende batterij capaciteit of netbeheer-taxen. We helpen je zelfs een winter zonder nationale black-outs door te komen."
+  },
+  {
+    "id": "homePage.bannerThree.title",
+    "defaultMessage": "## A smart energy manager",
+    "message": "## Een slimme energie verdeler"
+  },
+  {
+    "id": "homePage.bannerThree.body",
+    "defaultMessage": "Enable **Tricryo Home** to talk with the other smart utilities in your house to coordinate them, optimize climate control and reduce your energy peaks. \n\nWith the TriCryo app you get better insights into your production, storage and consumption of energy. Real-time and in the future.",
+    "message": "Laat **Tricryo Home** praten met de andere slimme toestellen in je woning om ze op elkaar af te stemmen, klimaatcontrole te optimaliseren en je energiepieken te verminderen. \n\nMet de TriCryo-app krijg je betere inzichten in je aanmaak, opslag en verbruik van energie. Real-time en in de toekomst."
+  },
+  {
+    "id": "homePage.bannerThree.example",
+    "defaultMessage": "Operate Tricryo with voice control",
+    "message": "Bedien TriCryo met stemcommando"
+  },
+  {
+    "id": "homePage.bannerFour.title",
+    "defaultMessage": "### Tricryo Home targets",
+    "message": "### Tricryo Home targets"
+  },
+  {
+    "id": "homePage.bannerFour.one",
+    "defaultMessage": "#### Sustainability\n\n**reusable materials**98%\n\n**Guarantee**12 years\n\n**Considerations**No risks, non-explosive\n\nOperates without chemical products\n\nBuilt with sustainable materials\n\nLimited maintenance\n\nReusable in alternative setups\n\nLong life-span",
+    "message": "#### Duurzaamheid\n\n**herbruikbare materialen**98%\n\n**Garantie**12 jaar\n\n**Overwegingen**Risico-vrij en niet-explosief\n\nOpereert zonder chemische producten\n\nGebouwd met duurzame materialen\n\nLicht onderhoud, zelf uitvoerbaar\n\nHerbruikbaar in andere opstellingen\n\nLange levensduur"
+  },
+  {
+    "id": "homePage.bannerFour.two",
+    "defaultMessage": "#### TECHNICAL SPECIFICATIONS\n\n**Scaleable**Up to 3 engines per Home unit\n\n**Economy**80% total efficiency\n\n**Usable capacity**Up to 50 kWh per Home unit\n\n**Power**Up to 18kW combined, of which 15kW electricity",
+    "message": "#### TECHNISCHE SPECIFICATIES\n\n**Schaalbaar**\n\nTot 3 motoren per Home unit\n\n**Zuinigheid**\n\n80% totale effici&euml;ntie\n\n**Bruikbare capaciteit**\n\nTot 50 kWh per Home unit\n\n**Vermogen**\n\nTot 18kW gecombineerd, waarvan 15kW electriciteit"
+  },
+  {
+    "id": "homePage.bannerFour.download",
+    "defaultMessage": "Download product specs",
+    "message": "Download product fiche"
+  },
+
+  {
+    "id": "cards.0.title",
+    "defaultMessage": "## Compact and silent",
+    "message": "## Compact en stil"
+  },
+  {
+    "id": "cards.0.body",
+    "defaultMessage": "Inside the **Tricryo Home** enclosure, between one and three whisper-engines are purring along.",
+    "message": "Binnen in de ge&iuml;soleerde **Tricryo Home** kast spinnen &eacc;&eacc;n tot drie fluistermotoren."
+  },
+  {
+    "id": "cards.1.title",
+    "defaultMessage": "Works in any climate",
+    "message": "Werkt in elk klimaat"
+  },
+  {
+    "id": "cards.1.body",
+    "defaultMessage": "Tricryo Home werkt zowel binnen, buiten, in de tropen en zelfs in de winterse Alpen.",
+    "message": "Tricryo Home works both inside, outside, in the tropics and even in the winter Alps."
+  },
+  {
+    "id": "cards.2.title",
+    "defaultMessage": "Veilig voor spelende kinderen",
+    "message": "Safe for playing kids"
+  },
+  {
+    "id": "cards.2.body",
+    "defaultMessage": "Bevat geen chemische producten en er is geen enkel risico op explosie.",
+    "message": "Doesn't contain chemical products nor is there any risk for explosions."
+  },
+  {
+    "id": "cards.3.title",
+    "defaultMessage": "Bewaar voor later",
+    "message": "Save for later"
+  },
+  {
+    "id": "cards.3.body",
+    "defaultMessage": "Tricryo lost de schommeling in je voorzieningen op door slim op te slaan.",
+    "message": "Tricryo Home solves the fluctuations in your supply by saving smart."
+  },
+  {
+    "id": "cards.4.title",
+    "defaultMessage": "Gebruik elke energiebron",
+    "message": "Use any energy source"
+  },
+  {
+    "id": "cards.4.body",
+    "defaultMessage": "Laat je niet langer beperken, elke duurzame energiebron is inzetbaar.",
+    "message": "You are no longer restricted, any sustainable energy source can be used."
+  },
+  {
+    "id": "misc.example",
+    "defaultMessage": "Voorbeeld",
+    "message": "Example"
+  },
+  {
+    "id": "homePage.footer",
+    "defaultMessage": "Tricryo ®",
+    "message": ""
+  }
+]
