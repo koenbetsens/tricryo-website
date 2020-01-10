@@ -28,6 +28,7 @@ class Login extends Component {
           <h3>LOGIN</h3>
           <div>
             <span>Email </span>
+            <br />
             <input
               type='text'
               name='email'
@@ -37,6 +38,7 @@ class Login extends Component {
           </div>
           <div>
             <span>Password </span>
+            <br />
             <input
               type='password'
               name='password'

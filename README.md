@@ -1,4 +1,8 @@
-# React/Redux Donderstarter
+# Tricryo website
+
+The Tricryo website is a React application built on top of the Donderstarter boilerplate.
+
+## React/Redux Donderstarter
 
 This boilerplate is designed to get you up and running with React/Router/Redux/Sagas workflow, backed up by webpack and unit testing with jest/enzyme.
 
@@ -65,6 +69,8 @@ After completing the [installation](#installation) step, you're ready to start d
 
 # API url
 API_URL = 'http://localhost:9004'
+# Google Analytics
+GA_ID = 'your-Google-Analytics-ID'
 ```
 If you look at `src/constants/endpoints.js` you will see a reference to `process.env.API_URL`, use it to make calls to mock API :D
 
@@ -95,7 +101,7 @@ Hot reloading is enabled by default for both **JavaScript** and **SCSS** files.
 
 ## Project Structure
 
-Containers use the [ducks](https://github.com/erikras/ducks-modular-redux) approach, with small changes. Instead of having the effects in the `ducks.js` file we preserve the sagas file to prevent our files of having more than 150/200 lines of code each and be easier to debug/read them. The other small change to this approach is that the middleware is also present in the `ducks.js` file, because we don't expect to have more than a couple per container, normally just one. 
+Containers use the [ducks](https://github.com/erikras/ducks-modular-redux) approach, with small changes. Instead of having the effects in the `ducks.js` file we preserve the sagas file to prevent our files of having more than 150/200 lines of code each and be easier to debug/read them. The other small change to this approach is that the middleware is also present in the `ducks.js` file, because we don't expect to have more than a couple per container, normally just one.
 
 All files are in the relative folder and imported when needed with the help of `webpack resolve`.
 
@@ -312,3 +318,9 @@ Some times `node-sass` have build problems on linux environments, probable solut
 - Bring your node version to `^6.0.0`
 - Run `npm rebuild node-sass`
 	- You need to run `npm rebuild node-sass` everytime `node-sass` package is installed.
+
+## DevOps
+Some helpful DevOps notes.
+
+### Nginx
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04

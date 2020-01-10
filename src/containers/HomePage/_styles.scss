@@ -34,9 +34,7 @@
     p {
       padding: .8rem 24%;
     }
-    img {
-      height: 42px;
-    }
+    img { height: 42px; }
   }
 
   .bannerTwo {
@@ -95,7 +93,7 @@
     padding: 3.75rem 0;
     display: flex;
     flex-flow: row wrap;
-    align-items: top;
+    align-items: flex-start;
     font-weight: 300;
 
     > h3 {
@@ -121,8 +119,6 @@
           text-transform: capitalize;
         }
       }
-
-
 
       &.renderTwo {
         height: 450px;
@@ -172,5 +168,105 @@
 
   footer {
     margin: 2rem 0;
+  }
+}
+
+@media (max-width: 1227px) {
+  .home {
+    .bannerThree {
+      background-position: 98% bottom;
+
+      > div {
+        width: 37%;
+        padding: 0 4% ;
+      }
+      small { bottom: -40px; }
+    }
+  }
+}
+
+@media (max-width: 1023px) {
+  .home {
+
+    h1, h2 { line-height: 4rem; }
+
+    .banner { padding: 2rem; }
+
+    .hero > div {
+      margin-top: 2rem;
+      padding: 1rem 2rem;
+
+      > p { padding: 0; }
+    }
+
+    .bannerOne {
+      p { padding: 0; }
+      img { height: 38px; }
+    }
+
+    .bannerTwo {
+      .column {
+        flex: inherit;
+
+        > p { margin-top: 20px; }
+      }
+    }
+
+    .bannerThree {
+      align-items: flex-start;
+      padding: 0 0 600px;
+      height: auto;
+      text-align: center;
+
+
+      > div {
+        width: 100%;
+        padding: 0 10% ;
+      }
+      small {
+        text-align: left;
+        bottom: -1rem;
+      }
+    }
+
+    .bannerFour {
+      padding: 0 4px;
+
+      .column {
+        width: 50%;
+        padding: 0 5%;
+
+        &.renderTwo {
+          height: 300px;
+          width: 100%;
+          background-size: contain;
+          border-radius: 2px;
+        }
+      }
+    }
+
+    .cards {
+      height: auto;
+
+      .card, .card.last {
+        order: 1;
+        margin: 2px 4px;
+        padding: 24px;
+        width: 98%;
+        height: auto;
+        background-size: contain;
+        background-position: center top;
+
+        h2 {
+          margin: -12px 0 342px;
+        }
+      }
+    }
+  }
+  @media (max-width: 768px) {
+    .bannerThree {
+      padding: 0 0 400px;
+      background-size: contain;
+    }
   }
 }

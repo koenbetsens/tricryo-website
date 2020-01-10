@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import ReactGA from 'react-ga'
 import { object, func } from 'prop-types'
 import { matchPath } from 'react-router'
 import Navigation from 'components/Navigation'
@@ -17,6 +18,8 @@ class App extends Component {
     if (auth.authToken != null) {
       userAuthLogin()
     }
+    
+    ReactGA.initialize(process.env.GA_ID);
   }
 
   includeNavigation = () => {
@@ -32,6 +35,7 @@ class App extends Component {
 
   navigate = path => event => {
     this.props.history.push(path)
+    ReactGA.pageview(path)
   }
 
   renderNav () {
