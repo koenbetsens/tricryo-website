@@ -1,6 +1,6 @@
 {
   "name": "tricryo-website",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React website of tricryo",
   "main": "dist/index.js",
   "scripts": {
@@ -45,6 +45,7 @@
     "prop-types": "15.6.0",
     "react": "16.7.0",
     "react-dom": "16.7.0",
+    "react-ga": "^2.7.0",
     "react-intl": "2.4.0",
     "react-markdown": "^4.3.0",
     "react-redux": "5.1.1",
