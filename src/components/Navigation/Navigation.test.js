@@ -9,7 +9,7 @@ describe('<Navigation />', () => {
   const wrapper = shallow(<Navigation title={title}><Child /></Navigation>)
 
   it('should render title', () => {
-    expect(wrapper.find('h3').text()).toEqual(title)
+    expect(wrapper.find('h1').text()).toEqual(title)
   })
 
   it('should render children', () => {
