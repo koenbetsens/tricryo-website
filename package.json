@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-donderstarter",
-  "version": "1.0.1",
-  "description": "react, redux, react-router boilerplate",
+  "name": "tricryo-website",
+  "version": "0.0.2",
+  "description": "React website of tricryo",
   "main": "dist/index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server",
@@ -24,23 +24,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Cloudoki/react-redux-donderstarter.git"
+    "url": "https://github.com/Cloudoki/tricryo-website.git"
   },
   "keywords": [
-    "react",
-    "redux",
-    "react-router",
-    "boilerplate"
+    "tricryo",
+    "react"
   ],
   "contributors": [
-    "muffles <molefas@gmail.com>",
-    "mstrk <mstrk512@gmail.com>"
+    "koenbetsens <koen@tricryo.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Cloudoki/react-redux-donderstarter/issues"
+    "url": "https://github.com/Cloudoki/tricryo-website/issues"
   },
-  "homepage": "https://github.com/Cloudoki/react-redux-donderstarter.git#readme",
+  "homepage": "https://github.com/Cloudoki/tricryo-website.git#readme",
   "dependencies": {
     "history": "4.7.2",
     "immutability-helper": "2.9.0",
