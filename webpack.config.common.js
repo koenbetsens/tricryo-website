@@ -72,7 +72,7 @@ module.exports = {
 
   plugins: [
     new Dotenv(),
-    new HtmlWebpackPlugin({ template: path.resolve(__dirname, 'src', 'index.html') }),
+    new HtmlWebpackPlugin({ template: path.resolve(__dirname, 'src', 'index.html'), manifest: "./public/manifest.json" }),
     new MiniCssExtractPlugin('style.css'),
   ],
 

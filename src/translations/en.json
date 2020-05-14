@@ -66,8 +66,8 @@
   },
   {
     "id": "homePage.bannerFour.two",
-    "defaultMessage": "#### TECHNISCHE SPECIFICATIES\n\n**Schaalbaar**\n\nTot 3 motoren per Home unit\n\n**Zuinigheid**\n\n80% totale effici&euml;ntie\n\n**Bruikbare capaciteit**\n\nTot 50 kWh per Home unit\n\n**Vermogen**\n\nTot 18kW gecombineerd, waarvan 15kW electriciteit",
-    "message": "#### TECHNICAL SPECIFICATIONS\n\n**Scaleable**Up to 3 engines per Home unit\n\n**Economy**80% total efficiency\n\n**Usable capacity**Up to 50 kWh per Home unit\n\n**Power**Up to 18kW combined, of which 15kW electricity"
+    "defaultMessage": "#### TECHNISCHE SPECIFICATIES\n\n**Schaalbaar**\n\nTot 3 motoren per Home unit\n\n**Zuinigheid**\n\n75% totale effici&euml;ntie\n\n**Bruikbare capaciteit**\n\nTot 50 kWh per Home unit\n\n**Vermogen**\n\nTot 18kW gecombineerd, waarvan 15kW electriciteit",
+    "message": "#### TECHNICAL SPECIFICATIONS\n\n**Scaleable**Up to 3 engines per Home unit\n\n**Economy**75% total efficiency\n\n**Usable capacity**Up to 50 kWh per Home unit\n\n**Power**Up to 18kW combined, of which 15kW electricity"
   },
   {
     "id": "homePage.bannerFour.download",
